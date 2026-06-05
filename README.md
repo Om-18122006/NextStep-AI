@@ -22,3 +22,5 @@ How to Run :: %clear
     %bun run dev ( http://localhost:8080/)
 
 06 - Open the website
+
+07 - check again all code and runing steps 
