@@ -20,5 +20,5 @@ How to Run :: %clear
     % bun install
 05 - Start the development server
     %bun run dev ( http://localhost:8080/)
-    
-06 - 
+
+06 - Open the website
