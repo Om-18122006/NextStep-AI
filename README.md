@@ -16,4 +16,9 @@ How to Run :: %clear
 02 - Load Bun into your terminal 
    % source ~/.zshrc
 03 -% bun --version
-04 -% bun install
+04 - Install project dependencies
+    % bun install
+05 - Start the development server
+    %bun run dev ( http://localhost:8080/)
+    
+06 - 
